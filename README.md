@@ -17,7 +17,7 @@ This is a standalone PHP script to import a large CSV of employee records into a
 
 ## Requirements
 
-- PHP 8.0+ (tested with 8.3)  
+- PHP 8.0+
 - MySQL 
 - CLI access 
 
